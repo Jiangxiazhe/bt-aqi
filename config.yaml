@@ -1,0 +1,5 @@
+API_ADDR: https://www.okx.com
+API_KEY: 2768f141-6568-4d38-b2f4-41dc9b36e5d0
+PASS_PHRASE: 123456+Hang
+SECRET_KEY: 83796A98775E345CD83D7EA65D81EF72
+WS_ADDR: wss://wspap.okx.com:8443/ws/v5/private?brokerId=9999
