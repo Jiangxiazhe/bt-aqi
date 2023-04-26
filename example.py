@@ -203,5 +203,5 @@ if __name__ == '__main__':
     # 系统状态API(仅适用于实盘) system status
     Status = Status.StatusAPI(api_key, secret_key, passphrase, False, flag)
     # 查看系统的升级状态
-    # result = Status.status()
+    #result = Status.status()
     print(json.dumps(result))
